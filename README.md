@@ -8,3 +8,7 @@ excel: https://onedrive.live.com/edit.aspx?action=editnew&resid=7A550F49C5D6472B
 the minimum applicants applied in which month, max applicants in which month, totall applicants and average amount of applicants in 2019.
 the link is here.. take a look please: 
 https://docs.google.com/spreadsheets/d/1XT-FUGeunkuvOc3D3dCZX9PWFYFpzI5OaSCIUuWk3I8/edit#gid=1701186801
+
+
+In this spread sheet I have a data set of cosmetic products, in 2 different sheets,each product have a code and the price and the total sale of each product, in other sheet we have the name of the products whith the code of each product, what I have done, is to male a pivot table which shoes the total sale and the code of each product, sort it as descending to see the most profitable items.I used VLOOKUP function to bring the name of each product into the first sheet which has all the information except the name of the products. I also made a chatrt of the price and in that chart I saw a product has a wierd amount under 1 $ so I guessed it must be 7.3 and fixed it.
+https://docs.google.com/spreadsheets/d/1gQPt2z93wHtD5B4w4uPHMwPv3-Og_Zk0IhNO2eb0OZQ/edit?resourcekey=0-mgJqT924wa_RoX0ucUD2BA#gid=1855162572
