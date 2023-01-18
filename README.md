@@ -16,3 +16,7 @@ https://docs.google.com/spreadsheets/d/1gQPt2z93wHtD5B4w4uPHMwPv3-Og_Zk0IhNO2eb0
 
 4.In this spreadsheet I have a dataset, and start cleaning it by removing duplicates, the rating must be under 5 so I determine the values more than 5, by first knowing if there is such data by =COUNTIF and then I sort the data by descending from the column Rating, and then I decide what to do with that(here I replaced them with 5), and seprate the  lat-long, also made the longtitude minus to be valid to read:
 https://docs.google.com/spreadsheets/d/1QyS9hIsizEp88YdXnu9EjeQ0coME_cbWJza7wu2_Byo/edit?resourcekey=0-UVaop-GwYJ4bNrq8OSZIVg#gid=1403310108
+
+
+5. In the link bellow I simply. combined columns with first name and last name in to a new column named "Full Name", using CONCAT function, and combined 3 othr columns with Day, Month and Year, in a column named Date, using CONCATENATE function and also put "-"in between them to hame a better format of the date:
+https://docs.google.com/spreadsheets/d/19QCCmW6_P2MeQ2OfbEpc-cCRXKzRGODTx76IKz6oAJE/edit#gid=322895476
