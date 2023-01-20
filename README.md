@@ -24,3 +24,7 @@ https://docs.google.com/spreadsheets/d/19QCCmW6_P2MeQ2OfbEpc-cCRXKzRGODTx76IKz6o
 
 6. In the link bellow I am working on "DATA VALIDATION" while a project is being done I added a dropdown list, with 3 options "not started yet", "ïn progress", "done", in a seprate column named "status". and also in othe column I added a checkbox with "approved", and "not approved" options. I also used "CONDITIONAL FORMATTING" to make our data more clear, and fill the cell with sot started yed value with red color, in progress with yellow color, and done with green color, we can use the data validation function to put a rule people just can fill valid data, for example in my spread sheet bellow I put the rule date to make sure it is all in a same date format. at the end if the date ids a date after today I put another formatting rule to paint it orange:
 https://docs.google.com/spreadsheets/d/1TyggAXotf-SSILCbarV2DC8cM5OgV3Uq2TWMZpkMHHM/edit#gid=1265595766
+
+
+7. In this data set of citibikes, I simply used LEN, FIND, RIGHT AND LEFT function in google spreadsheet to seprate the time and date from to column named starttime and stoptime:
+https://docs.google.com/spreadsheets/d/1W-NPi847OplrfQ7lXCv_idJ0Z8KNpKHHurPKRR9STNk/edit#gid=1537755529
