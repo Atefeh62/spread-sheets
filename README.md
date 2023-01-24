@@ -28,3 +28,6 @@ https://docs.google.com/spreadsheets/d/1TyggAXotf-SSILCbarV2DC8cM5OgV3Uq2TWMZpkM
 
 7. In this data set of citibikes, I simply used LEN, FIND, RIGHT AND LEFT function in google spreadsheet to seprate the time and date from to column named starttime and stoptime:
 https://docs.google.com/spreadsheets/d/1W-NPi847OplrfQ7lXCv_idJ0Z8KNpKHHurPKRR9STNk/edit#gid=1537755529
+
+8. In the link bellow I Used VLOOKUP function, to find the hourly rate of the employees from other sheet(data aggregation) and made a PIVOT TABLE toshow all the results in summary:
+https://docs.google.com/spreadsheets/d/1E-XbJD6PH4uKkwt9N2XGP3Ick6pu74rtwiavSFNA_fg/edit#gid=2044619071
