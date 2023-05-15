@@ -31,3 +31,7 @@ https://docs.google.com/spreadsheets/d/1W-NPi847OplrfQ7lXCv_idJ0Z8KNpKHHurPKRR9S
 
 8. In the link bellow I Used VLOOKUP function, to find the hourly rate of the employees from other sheet(data aggregation) and made a PIVOT TABLE toshow all the results in summary:
 https://docs.google.com/spreadsheets/d/1E-XbJD6PH4uKkwt9N2XGP3Ick6pu74rtwiavSFNA_fg/edit#gid=2044619071
+
+
+9.Calculation: here I have a dataset of a monthlysale in diffrent years, I use =sum to find yearly sale, I foundthe growth from last year by - / and hitting the % botton, then I calculate the average sale by month (=AVG) and to give some visualisation taste to it used conditional formatting and scale color and giving white to the min and shade of the green to higher:
+https://docs.google.com/spreadsheets/d/1BCoiw_stY8biLUpLLYECwroFHVd_LRi8RSHj_NT9uVg/edit#gid=29923480
