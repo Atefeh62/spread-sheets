@@ -37,5 +37,6 @@ https://docs.google.com/spreadsheets/d/1E-XbJD6PH4uKkwt9N2XGP3Ick6pu74rtwiavSFNA
 https://docs.google.com/spreadsheets/d/1BCoiw_stY8biLUpLLYECwroFHVd_LRi8RSHj_NT9uVg/edit#gid=29923480
 
 
-10. using =SUMIF, =COUNTIF, =AVERAGEIF in the following link:
+10. using =SUMIF, =COUNTIF, =AVERAGEIF =MAXIFS in the following link:
 https://docs.google.com/spreadsheets/d/1ZI3xDbA4MekGJcTbp5kekXtIuv8WvsCVGNlDCMyHXSo/edit#gid=0
+https://docs.google.com/spreadsheets/d/1M0qNa9OOzVABvrgMLIQTSpioTyZWwkwj60i0zkQQ1BA/edit#gid=895883562
