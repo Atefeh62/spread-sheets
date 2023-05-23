@@ -40,3 +40,7 @@ https://docs.google.com/spreadsheets/d/1BCoiw_stY8biLUpLLYECwroFHVd_LRi8RSHj_NT9
 10. using =SUMIF, =COUNTIF, =AVERAGEIF =MAXIFS in the following link:
 https://docs.google.com/spreadsheets/d/1ZI3xDbA4MekGJcTbp5kekXtIuv8WvsCVGNlDCMyHXSo/edit#gid=0
 https://docs.google.com/spreadsheets/d/1M0qNa9OOzVABvrgMLIQTSpioTyZWwkwj60i0zkQQ1BA/edit#gid=895883562
+
+
+11.In the link bellow in google sheet I am applying Pivot tables for analyzing and summarising my analysis:(data set about the movies in several years, I am making a revenue sheet with a pivot table to see how many movies are produced in each year, and the revenue made in each year and also the average revenue made each year. in the second pivot table in revenue sheet, i am finding the movies made less than 10M each year and start analysing them:
+https://docs.google.com/spreadsheets/d/1LMQwRYWDnIjVnn67Lts1IuWWSbz34dJjnuVi5ILV7tU/edit?resourcekey=0-nOsANvpuV3lsPBcU-yocEQ#gid=698053985
